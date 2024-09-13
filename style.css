@@ -1,0 +1,143 @@
+.logo{
+    height: 50px;
+    margin-left: 10vh;
+}
+
+.ayrac{
+    font-size: 20px;
+    margin: 0px 20px;
+}
+
+
+.ust-kisim{
+    background-image: url(resimler/f90d9d00-6467-4538-9093-ef85476b6b63.png);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.nav-bg{
+    background-color: rgba(134, 122, 106, 0.468);
+}
+
+ul a{
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+ul a:hover{
+    color:bisque;
+}
+
+@media screen and (max-width:992px) {
+    .ayrac{
+        display: none;
+    }
+
+    .nav-item:hover{
+        background-color:aliceblue;
+    }
+}
+
+.bosluk{
+    margin-top: 100px;
+}
+
+.teklif{
+    height: 60px;
+}
+
+.tirnak{
+    color: #f4b70b;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+
+.imza{
+    font-size: 20px;
+}
+
+.hizmetlerimiz{
+    background-color: #f4b70b;
+    
+}
+
+
+.paragraf{
+    font-size: 25px;
+}
+
+
+.cicek{
+    position: relative;
+    position: absolute;
+    right: 50px;
+    top: 60px;
+}
+
+
+.calisanlar{
+    width: 200px;
+}
+
+.tirnak1{
+    color: #f4b70b;
+    font-size: 46px;
+    
+}
+
+.imza1{
+    font-size: 24px;
+    font-weight: bold;
+    color:#f4b70b;
+}
+
+
+.slogan{
+    background-image: url(resimler/f90d9d00-6467-4538-9093-ef85476b6b63.png);
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+
+.rocket-icon{
+    font-size: 150px;
+    color: white;
+}
+
+.yazı{
+    position: relative;
+    position: absolute;
+    top: 250px;
+    left: 570px;
+    color: rgb(35, 103, 61);
+    font-weight: bolder;
+    letter-spacing:3px;
+}
+
+.yazı2{
+    position: relative;
+    position: absolute;
+    top: 320px;
+    left: 300px;
+    color:rgb(35, 103, 61) ;
+    font-family: monospace;
+}
+
+.footer{
+    background-color: rgb(35, 103, 61);
+    height: 80px;
+}
+
+.kart{
+    position: relative;
+    position: absolute;
+    left: 200px;
+}
+
+

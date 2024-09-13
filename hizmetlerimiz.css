@@ -1,0 +1,67 @@
+.üstkisim{
+    background-image: url(resimler/f90d9d00-6467-4538-9093-ef85476b6b63.png);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.nav-bg{
+    background-color: rgba(134, 122, 106, 0.468);
+}
+
+
+.ayrac{
+    font-size: 20px;
+    margin: 0px 20px;
+}
+
+
+ul li a{
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+ul li a:hover{
+    color:bisque;
+}
+
+
+.hizmet{
+    position:relative;
+    position: absolute;
+    top: 150px;
+    left: 570px;
+}
+
+.hizmet1{
+    position:relative;
+    position: absolute;
+    left: 570px;
+    top: 200px;
+}
+
+.resim{
+    height: 240px;
+    position:relative;
+    position: absolute;
+    left: 300px;
+    top: 100px;
+}
+
+.turunc{
+    background-color: orange;
+    min-height: 500px;
+}
+
+.h1etik{
+    color: white;
+}
+
+.footer{
+    
+        background-color: rgb(35, 103, 61);
+        height: 80px;
+    
+}

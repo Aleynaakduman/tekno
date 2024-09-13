@@ -1,0 +1,81 @@
+.üst-kisim{
+    background-image: url(resimler/f90d9d00-6467-4538-9093-ef85476b6b63.png);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+
+
+
+.nav-bg{
+    background-color: rgba(134, 122, 106, 0.468);;
+}
+
+.logo{
+    height: 50px;
+    margin-left: 10vh;
+}
+
+
+.ayrac{
+    font-size: 20px;
+    margin: 0px 20px;
+}
+
+
+.üst-kisim ul a{
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+ul a:hover{
+    color:bisque;
+}
+
+
+
+.ust-kisim{
+    background-image: url(resimler/f90d9d00-6467-4538-9093-ef85476b6b63.png);
+    height: 500px;
+    background-position:center;
+}
+
+.hak{
+    color:rgb(103, 212, 152);
+    font-weight: bolder;
+}
+
+.hak2{
+    font-weight: bold;
+}
+
+.logo2{
+    height: 250px;
+    position: relative;
+    position: absolute;
+    left: 170px;
+    bottom: 150px;
+}
+
+.sayfa{
+    position: relative;
+    position: absolute;
+    left: 450px;
+    bottom: 390px;
+}
+
+.img1{
+    border-style:solid;
+    height: 250px;
+    padding: 4px px;
+}
+
+
+.footer{
+    background-color: rgb(35, 103, 61);
+    height: 80px;
+}
